@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Xinyang Huang</h1>
 <h3 align="center">Undergradute Student at University College London</h3>
 
-- 🔭 I’m currently working on [COMP0034_COURSEWORK](https://github.com/ucl-comp0035/comp0034-cw1i-D1Vincenzo)
+- 🔭 I’m currently working on [My 3rd Year Individual Project: Multi Sensor Fusion](https://github.com/D1Vincenzo/multi_sensor_fusion_project_note)
 
 - 🌱 I’m currently learning **ROS2, SLAM...**
 
-- 👨‍💻 All of my projects are available at [https://github.com/D1Vincenzo?tab=repositories](https://github.com/D1Vincenzo?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/D1Vincenzo?tab=repositories)
 
-- 📫 How to reach me **vincenthuang23hxy@gmail.com**
+- 📫 How to reach me **xinyang.huang.21@ucl.ac.uk**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/xinyang-huang/](https://www.linkedin.com/in/xinyang-huang/)
+- 📄 Know about my experiences [My Linkedin](https://www.linkedin.com/in/xinyang-huang/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
