@@ -3,9 +3,13 @@
 
 - 🔭 I’m currently working on [My 3rd Year Individual Project: Multi Sensor Fusion](https://github.com/D1Vincenzo/multi_sensor_fusion)
 
-- 🌱 I’m currently learning **ROS2, SLAM...**
+- 🌱 I’m currently learning **ROS2, C++...**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/D1Vincenzo?tab=repositories)
+
+- ✌🏻 My pride projects:
+    - [Multi Sensor Fusion](https://github.com/D1Vincenzo/multi_sensor_fusion)
+    - [Robot Voice Control](https://github.com/D1Vincenzo/robot_voice_control_program)
 
 - 📫 How to reach me **xinyang.huang.21@ucl.ac.uk**
 
