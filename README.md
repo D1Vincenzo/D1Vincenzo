@@ -14,7 +14,7 @@
 - 📫 How to reach me **xinyang.huang.21@ucl.ac.uk**
 
 - 📄 Know about my experiences:
-    - [My CV](https://github.com/D1Vincenzo/CV_latex)
+    - [My CV](https://github.com/D1Vincenzo/CV_latex/blob/main/main.pdf)
     - [My Linkedin](https://www.linkedin.com/in/xinyang-huang/)
 
 <h3 align="left">Connect with me:</h3>
