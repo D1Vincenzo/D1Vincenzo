@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xinyang Huang</h1>
 <h3 align="center">Undergradute Student at University College London</h3>
 
-- 🔭 I’m currently working on [My 3rd Year Individual Project: Multi Sensor Fusion](https://github.com/D1Vincenzo/multi_sensor_fusion_project_note)
+- 🔭 I’m currently working on [My 3rd Year Individual Project: Multi Sensor Fusion](https://github.com/D1Vincenzo/multi_sensor_fusion)
 
 - 🌱 I’m currently learning **ROS2, SLAM...**
 
