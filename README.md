@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Xinyang Huang</h1>
-<h3 align="center">Undergradute Student at University College London</h3>
+<h3 align="center">Postgraduate Student at University College London</h3>
 
-- 🔭 I’m currently working on [My 3rd Year Individual Project: Multi Sensor Fusion](https://github.com/D1Vincenzo/multi_sensor_fusion)
+- 🔭 ~~I’m currently working on~~ I have just finished [My 3rd Year Individual Project: Multi Sensor Fusion](https://github.com/D1Vincenzo/multi_sensor_fusion)
 
-- 🌱 I’m currently learning **ROS2, C++...**
+- 🌱 I’m currently learning **ROS2, C++, Machine Learning...**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/D1Vincenzo?tab=repositories)
 
